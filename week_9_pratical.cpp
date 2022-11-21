@@ -10,9 +10,9 @@ using namespace cgicc;
 
 int main(){
     Cgicc test;
- 
-    test.getElements().size();
-    
 
-    
+    cout << test.getElements().size();
+   
+
+   
 }
